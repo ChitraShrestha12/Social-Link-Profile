@@ -1,5 +1,4 @@
 🌐 Social Link Profile
-<br>
 A clean and modern personal profile card built using HTML and CSS. This project displays a user's avatar, name, location, and a list of social media links styled as buttons.
 
 ✨ Features
